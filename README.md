@@ -1,4 +1,4 @@
-# Online Disinformation Spreading Through Deepfakes
+# Online Disinformation Spreading through Deepfakes
 
 Advances in Deep Learning (DL), Big Data and image processing have facilitated online disinformation spreading through Deepfakes. This entails severe threats including public opinion manipulation, geopolitical tensions, chaos in financial markets, scams, defamation and identity theft among others. 
 
